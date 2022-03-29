@@ -1,0 +1,18 @@
+{
+  "program": {
+    "uuid": "FWiNzE",
+    "candyMachine": "FWiNzEC7t8VZXmjqbPH7TWDDpQ85B3WoKDRqds8RWPYv",
+    "collection": "C2risqM74YBrKX5sJDpfm2DbZHrpjXZMXQJ6PiAhX7Pf"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/hmuENReQObmRUxiL7z8DHpVuSz_VBMOEKE69qpzJ4iA",
+      "imageLink": "https://arweave.net/DsBlqABUI2iL5yqdsDhs1E_crNYDVQsrhEaDkIfQ-BY?ext=png",
+      "name": "Sunny 0",
+      "onChain": true,
+      "verifyRun": false
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}

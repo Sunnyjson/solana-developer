@@ -1,0 +1,19 @@
+{
+  "name": "Sunny 0",
+  "symbol": "SUNNY",
+  "image": "0.png",
+  "properties": {
+      "files": [
+          {
+              "uri": "0.png",
+              "type": "image/png"
+          }
+      ],
+      "creators": [
+          {
+              "address": "3rW4WWYYbrRG8emMK3Sq6i1HboDmbwFraLvcHo1Qd7Gm",
+              "share": 100
+          }
+      ]
+  }
+}
